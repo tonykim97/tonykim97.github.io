@@ -7,7 +7,7 @@ first_name: Jeongwon
 middle_name:
 last_name: Kim
 contact_note: >
-  Jeongwon Kim is a M.S. student in the Department of Railroad Convergence System at Korea National University of Transportation.
+  Jeongwon Kim is a M.S. student in the department of railroad convergence system at Korea National University of Transportation.
   His research interests semantic segmentation and gait recognition.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -98,7 +98,8 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+# search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
