@@ -510,6 +510,16 @@ color:var(--global-theme-color);
 border-color:var(--global-theme-color)}
 .publications ol.bibliography li .links a.award.btn{
 border-color:var(--global-highlight-color)}
+.publications ol.bibliography li .badges{
+padding-bottom:.5rem}
+.publications ol.bibliography li .badges span{
+display:inline-block;
+color:#000;
+height:100%;
+padding-right:.5rem;
+vertical-align:middle}
+.publications ol.bibliography li .badges span:hover{
+text-decoration:underline}
 .publications ol.bibliography li .hidden{
 font-size:.875rem;
 max-height:0px;
