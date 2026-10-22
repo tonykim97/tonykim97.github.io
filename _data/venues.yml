@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"KAIS":
+  url: https://www.kais99.org
+  color: "#1F5AA6"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IPIU":
+  url: https://ipiu.or.kr
+  color: "#0F8A9D"
 
-"Vision":
-  color: "#009f36"
+"KSR":
+  url: https://railway.or.kr
+  color: "#B23A48"
+
+"AICCC":
+  url: https://www.aiccc.net
+  color: "#5B4BCE"
