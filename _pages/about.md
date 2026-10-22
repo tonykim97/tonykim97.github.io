@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>No</a> pain. No gain.
+subtitle: <a href='#'>No pain. No gain.</a>
 
 profile:
   align: right
